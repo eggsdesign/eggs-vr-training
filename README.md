@@ -11,6 +11,24 @@ This is a repository of VR training material
 - Interaction
 - Preventing "VR sickness"
 #### Hardware
+- Capability and limitations
+  - Wide range of hardware, from pro to paper
+    - Google Glass
+    - Google paper
+    - Google Daydream
+    - Google WorldSense
+    - Samsung Gear
+    - ARKit / ARCore
+    - Project
+    - Oculus Rift
+    - HTC Vive
+    - Microsoft MR headsets
+    - Pro AR helmet
+  - How do they work?
+  - Price differences and consumer access
+  - Best Practices
+    - VR
+    - AR
 #### Applications
 - Past, Present, Future
 
