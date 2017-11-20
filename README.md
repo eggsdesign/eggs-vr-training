@@ -2,7 +2,17 @@
 This is a repository of VR training material
 
 ## Outline
+
 ### Theory
+#### Terminology
+- XR -> AR, VR, MR
+#### Best practices
+- Movement
+- Interaction
+- Preventing "VR sickness"
+#### Hardware
+#### Applications
+- Past, Present, Future
 
 ### Courses
 #### Day 1 - Basics, Best Practices and WebVR 2h
