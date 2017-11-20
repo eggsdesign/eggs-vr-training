@@ -5,25 +5,30 @@ This is a repository of VR training material
 ### Theory
 
 ### Courses
-  - Day 1 - Basics, Best Practices and WebVR 2h
-    - Basic Theory and access to training material on GitHub (20m)
-    - Vizor Patches walkthrough (30m)
-    - Make cool stuff (1h 20m)
-  - Day 2 - Unreal Engine 2h
-    - Unreal Engine walkthrough
-      - Scenes and blueprints
-      - Node programming
-      - Exporting
+Day 1 - Basics, Best Practices and WebVR 2h
+- Required: nothing particular
+- Basic Theory and access to training material on GitHub (20m)
+- Vizor Patches walkthrough (30m)
+- Make cool stuff (1h 20m)
+
+Day 2 - Unreal Engine 2h
+- Required: Install UE beforehand
+- Unreal Engine walkthrough
+  - Scenes and blueprints
+  - Node programming
+  - Exporting
+- Unreal Engine experimentation
       
 ### Resources
-- Knowledge
-  - [Facebook VR](http://facebook.design/vr)
-  - [The UX of VR](https://www.uxofvr.com/)
-  - [Oculus Best Practices](https://developer.oculus.com/design/latest/concepts/bp_intro/)
-  - [AR VR List](http://arvrlist.com/)
-  - [The VR AR A](http://www.thevrara.com/resources/)
-  - [Awesome VR (GitHub)](https://github.com/melbvr/awesome-VR)
-  - [Awesome WebVR (GitHub)](https://github.com/wizztjh/awesome-WebVR)
-- Content creation and assets
-  - [Blender](https://www.blender.org/features/)
-  - [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
+#### Knowledge
+- [Facebook VR](http://facebook.design/vr)
+- [The UX of VR](https://www.uxofvr.com/)
+- [Oculus Best Practices](https://developer.oculus.com/design/latest/concepts/bp_intro/)
+- [AR VR List](http://arvrlist.com/)
+- [The VR AR A](http://www.thevrara.com/resources/)
+- [Awesome VR (GitHub)](https://github.com/melbvr/awesome-VR)
+- [Awesome WebVR (GitHub)](https://github.com/wizztjh/awesome-WebVR)
+
+#### Content creation and assets
+- [Blender](https://www.blender.org/features/)
+- [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
