@@ -5,13 +5,13 @@ This is a repository of VR training material
 ### Theory
 
 ### Courses
-Day 1 - Basics, Best Practices and WebVR 2h
+#### Day 1 - Basics, Best Practices and WebVR 2h
 - Required: nothing particular
 - Basic Theory and access to training material on GitHub (20m)
 - Vizor Patches walkthrough (30m)
 - Make cool stuff (1h 20m)
 
-Day 2 - Unreal Engine 2h
+#### Day 2 - Unreal Engine 2h
 - Required: Install UE beforehand
 - Unreal Engine walkthrough
   - Scenes and blueprints
