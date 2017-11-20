@@ -39,6 +39,12 @@ This is a repository of VR training material
 - [Awesome VR (GitHub)](https://github.com/melbvr/awesome-VR)
 - [Awesome WebVR (GitHub)](https://github.com/wizztjh/awesome-WebVR)
 
-#### Content creation and assets
+#### Software
+- [Unity](https://unity3d.com/)
+- [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+- [Vizor Patches (web vr)](https://patches.vizor.io/)
+- [Ottifox (web vr)](http://ottifox.com/)
+
+#### Assets
 - [Blender](https://www.blender.org/features/)
 - [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
