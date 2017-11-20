@@ -22,7 +22,7 @@ This is a repository of VR training material
 - Make cool stuff (1h 20m)
 
 #### Day 2 - VR with Unreal Engine (2h)
-[See course page]("../Courses/Day 1.md")
+[See course page](../Courses/Day 1.md)
 - Required: Install UE beforehand
 - Unreal Engine walkthrough
   - Scenes and blueprints
