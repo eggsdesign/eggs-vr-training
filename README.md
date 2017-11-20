@@ -33,23 +33,10 @@ This is a repository of VR training material
 - Past, Present, Future
 
 ### Courses
-#### [Day 1 - Basics, Best Practices and WebVR (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%201.md)
-- Required: nothing particular
-- Basic Theory and access to training material on GitHub (20m)
-- Vizor Patches walkthrough (30m)
-- Make cool stuff (1h 20m)
+- [Day 1 - Basics, Best Practices and WebVR (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%201.md)
+- [Day 2 - VR with Unreal Engine (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%202.md)
+- [Day 3 - AR with Unity (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%203.md)
 
-#### [Day 2 - VR with Unreal Engine (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%202.md)
-- Required: Install UE beforehand
-- Unreal Engine walkthrough
-  - Scenes and blueprints
-  - Node programming
-  - Exporting
-- Unreal Engine experimentation
-
-#### [Day 3 - AR with Unity (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%203.md)
-- Using the plugin
-- Exporting to XCode and building for iOS
       
 ### Resources
 #### Knowledge
