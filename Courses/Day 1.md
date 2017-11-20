@@ -1,7 +1,7 @@
 # Day 1 - Basics, Best Practices and WebVR
 Estimated time: 2 hours
 
-## Enter Vizor Patches
+## Open Vizor Patches web app
 https://patches.vizor.io/
 
 ## Exercises
