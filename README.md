@@ -1,3 +1,5 @@
+![Banner image](https://github.com/ballexman/EGGS-VR-Training/blob/master/Assets/eggs-vr-banner.png)
+
 # EGGS VR Training
 This is a repository of VR training material
 
@@ -6,10 +8,12 @@ This is a repository of VR training material
 ### Theory
 #### Terminology
 - XR -> AR, VR, MR
+
 #### Best practices
 - Movement
 - Interaction
 - Preventing "VR sickness"
+
 #### Hardware
 - Capability and limitations
   - Wide range of hardware, from pro to paper
@@ -29,6 +33,7 @@ This is a repository of VR training material
   - Best Practices
     - VR
     - AR
+    
 #### Applications
 - Past, Present, Future
 
