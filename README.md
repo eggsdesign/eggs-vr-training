@@ -7,7 +7,11 @@ This is a repository of VR training material
 
 ### Theory
 #### Terminology
-- XR -> AR, VR, MR
+- XR
+  - Augmented Reality 
+  - Virtual Reality
+  - Mixed Reality
+- Inside out tracking
 
 #### Best practices
 - Movement
@@ -33,8 +37,8 @@ This is a repository of VR training material
   - Best Practices
     - VR
     - AR
-    
-#### Applications
+
+#### Applications of XR
 - Past, Present, Future
 
 ### Courses
@@ -42,7 +46,7 @@ This is a repository of VR training material
 - [Day 2 - VR with Unreal Engine (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%202.md)
 - [Day 3 - AR with Unity (2h)](https://github.com/ballexman/EGGS-VR-Training/blob/master/Courses/Day%203.md)
 
-      
+
 ### Resources
 #### Knowledge
 - [Facebook VR](http://facebook.design/vr)
