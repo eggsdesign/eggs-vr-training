@@ -29,3 +29,4 @@ This is a repository of VR training material for EGGS.
 ### Assets
 - [Blender](https://www.blender.org/features/)
 - [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
+- [Google Poly](https://poly.google.com/)
