@@ -2,16 +2,17 @@
 Estimated time: 2 hours
 
 ## Before the course
-Open the Vizor Patches web app at https://patches.vizor.io/
+1) Download [Unity](https://unity3d.com/)
+2) Download the A-frame export [plugin for Unity](https://github.com/if1live/unity-scene-web-exporter)
 
 ## The course
 
-### Why Vizor Patches and WebVR?
-- A lot easier to start using than the current alternatives
-- Quick set-up and works on available platforms (your phone)
+### Why Unity and WebVR?
+- Unity is a powerful tool that can be used for both simple and advanced tasks
+- WebVR has quick set-up and works on your phone
 
 ### The User Interface
-[Image of Vizor UI, with info text over]
+[Image of Unity UI, with info text over different sections]
 
 ### Core concepts
 
