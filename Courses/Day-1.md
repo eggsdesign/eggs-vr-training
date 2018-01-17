@@ -2,13 +2,11 @@
 Estimated time: 2 hours
 
 ## Before the course
-1) Download [Unity](https://unity3d.com/)
-2) Download the A-frame export [plugin for Unity](https://github.com/if1live/unity-scene-web-exporter)
+1) Download and install [Hologram](https://hologram.cool)
 
 ## The course
 
-### Why Unity and WebVR?
-- Unity is a powerful tool that can be used for both simple and advanced tasks
+### Why WebVR?
 - WebVR has quick set-up and works on your phone
 
 ### The User Interface
@@ -17,5 +15,6 @@ Estimated time: 2 hours
 ### Core concepts
 
 ## Exercise
-1) Start a new scene and add an object to it (from website with 3d models)
+1) Start a new scene and add an object to it (There are tool libraries integrated into Hologram for easy download)
 2) Add an action to this object, and animate it when the user interacts with it
+3) Run it on your phone
